@@ -1,4 +1,5 @@
 export default {
+    base: '/contentiousdevelopers.github.io/',
     themeConfig: {
         siteTitle: 'Contentious Developers',
         logo: '/contentious-developers.svg',
